@@ -1,0 +1,15 @@
+body {
+  background-color: #FF5733;
+}
+
+h1 {
+  color: #3374FF;
+  margin-left: 20px;
+}
+
+ 3something{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
