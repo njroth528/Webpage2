@@ -8,6 +8,7 @@ h1 {
 }
 
  #something{
+border-radius: 25px;
   width: 300px;
   border: 15px solid #6426F1;
   padding: 50px;
