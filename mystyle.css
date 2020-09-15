@@ -1,5 +1,5 @@
 body {
-  background-color: #FF5733;
+  background-color: #0AAB7C;
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
   margin-left: 20px;
 }
 
- 3something{
+ #something{
   width: 300px;
   border: 15px solid green;
   padding: 50px;
