@@ -14,3 +14,11 @@ h1 {
   margin: 20px;
   color: #C8C8C8;
 }
+
+#somethingelse{
+ width: 300px;
+ border: 15px solid #6426F1;
+ padding: 50px;
+ margin: 20px;
+ color: #43686D;
+}
